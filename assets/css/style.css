@@ -670,6 +670,14 @@ h2{
 	border: 1px solid #E6E6E6;
 	padding: 30px;
 	background: #fff;
+	position: relative;
+}
+
+.product_main_img a img { 
+	position: absolute; 
+	bottom: 18px;
+	right: 18px;
+	width: 25px;
 }
 
 .product_main_img  img{

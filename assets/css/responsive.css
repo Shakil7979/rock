@@ -428,6 +428,15 @@ h2 {
 		font-size: 32px;
 		line-height: 34px; 
 	}
+	.pagination_arrow ul li a {
+		width: 31px;
+		height: 31px; 
+		font-size: 16px; 
+	}
+	/* #myTab {
+		width: 600px;
+		overflow-x: scroll;
+	} */
 }
 @media all and (max-width:576px){
 	.product_mobile_flex {
