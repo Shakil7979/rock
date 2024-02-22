@@ -1245,7 +1245,7 @@ h2{
 }
 
 .product_total {
-	background: #3E826980;
+	background: #9DBFB2;
 	padding: 15px;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -1266,8 +1266,13 @@ h2{
 }
 
 
-.product_total h4{
+.product_total h4 {
 	font-weight: 800;
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	font-size: 16px;
+	line-height: 21px;
 }
 
 .product_total span { 
